@@ -32,7 +32,6 @@ For generation of text corpus, we will make use of a 2nd-order Markov model.
 Once we have completed the training, we will have the initial word distribution, second-word distribution and the state transition distributions. Next to generate a new text, all we need is to write a function to sample out from the above-created distributions.
 
 ![Text Corpus](Text Corpus.png)
-!Text Predicition](Text Prediction.png)
 
 # Project Structure
 - Data : Datasets
