@@ -15,7 +15,7 @@ Text Corpus using Hidden Markov Model
 Just run the Jupyter Notebook through Anaconda
 
 # Process Explanation
-For generation of text corpus, we will make use of a 2nd-order Markov model. 
+For generation of text corpus, we will make use of a Hidden Markov model. 
 - At first, we need to clean up the data and then train a Markov model on the cleaned up data.
 - The training of the Markov model can be divided into the following stages -
 
