@@ -16,6 +16,10 @@ Just run the Jupyter Notebook through Anaconda
 
 # Process Explanation
 For generation of text corpus, we will make use of a Hidden Markov model. 
+
+- Example
+![TP](transitiondistribution.png)
+
 - At first, we need to clean up the data and then train a Markov model on the cleaned up data.
 - The training of the Markov model can be divided into the following stages -
 
